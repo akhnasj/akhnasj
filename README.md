@@ -8,6 +8,11 @@
 
 </div>
 
+<p align="center">
+<img align= "center" src="https://komarev.com/ghpvc/?username=akhnasj&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+</div>
+
+
   
 <!--
 **akhnasj/akhnasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +46,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhnasj&theme=chartreuse-dark&hide_border=false" alt="ovi" /></p>
 
-<p align="center">
-<img align= "center" src="https://komarev.com/ghpvc/?username=akhnasj&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-</div>
 
