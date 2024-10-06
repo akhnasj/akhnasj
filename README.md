@@ -12,13 +12,14 @@
 
 <hr>
 
-<u>
-### 👨🏻‍💻 &nbsp;ABOUT ME
-</u>
+
+## 👨🏻‍💻 &nbsp;ABOUT ME
+
 🔭 &nbsp;I’m currently working on Mobile App Development\
 🌱 &nbsp;I’m currently learning Flutter\
 📫 &nbsp;Reach me through : akhnasj1612@gmail.com
 
+<hr>
 <!--
 **akhnasj/akhnasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
