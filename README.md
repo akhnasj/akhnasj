@@ -12,19 +12,22 @@
 <img align= "center" src="https://komarev.com/ghpvc/?username=akhnasj&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </div>
 
+### 👨🏻‍💻 &nbsp;About Me
+🔭 &nbsp;I’m currently working on Mobile App Developmen
+🌱 &nbsp;I’m currently learning Flutter
+📫 &nbsp;Reach me through : akhnasj1612@gmail.com
 
-  
 <!--
 **akhnasj/akhnasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile App Development
+t
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Reach me through :
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
