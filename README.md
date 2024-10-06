@@ -1,8 +1,8 @@
-<div>
+<div align="center"
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.webp" width="30px"></h2>
 </div>
 
-<div  width="50">
+<div align="center" width="50">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhna!;)](https://git.io/typing-svg)
 
