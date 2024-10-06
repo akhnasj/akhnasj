@@ -13,7 +13,7 @@
 
 🔭 &nbsp;I’m currently working on Mobile App Development\
 🌱 &nbsp;I’m currently learning Flutter\
-📫 &nbsp;Reach me through : <a href="akhnasj1612@gmail.com">📩</a>
+📫 &nbsp;Reach me through : <a href="mailto:akhnasj1612@gmail.com">📩</a>
 <br><br>
 
 <hr>
