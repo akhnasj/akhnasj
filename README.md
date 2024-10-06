@@ -2,13 +2,13 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.webp" width="30px"></h2>
 </div>
 
-<div align="center" width="50">
+<div align="center" width="70">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Akhna!;)](https://git.io/typing-svg)
 
 </div>
 
-<p>
+<p align="center">
 <img align= "center" src="https://komarev.com/ghpvc/?username=akhnasj&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </div>
 
