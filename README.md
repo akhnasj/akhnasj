@@ -32,6 +32,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<br><br>
 
 <hr>
 
@@ -44,9 +45,12 @@
  <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhnasj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="330" style="margin-top: 10px; margin-right: 20px;">
 </div>
+<br><br>
+
+<hr>
 
 ## ⚡Contributions
-  <br><br><br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhnasj&theme=chartreuse-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
