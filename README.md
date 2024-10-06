@@ -62,20 +62,16 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align = "left" src="https://github-readme-stats.vercel.app/api?username=akhnasj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="470"> 
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akhnasj&theme=chartreuse-dark&hide_border=false" alt="ovi" width="490"/></p>
- <br><br><br><br><br><br><br><br><br>
+ <br><br><br><br><br><br><br><br>
  <div align=center>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhnasj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="430" style="margin-top: 10px; margin-right: 20px;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhnasj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="400" style="margin-top: 10px; margin-right: 20px;">
 </div>
 
   
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
+
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhnasj&theme=chartreuse-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
