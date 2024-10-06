@@ -1,8 +1,8 @@
 
 
-<div align="center" width="200">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello,+Fellow+Developers!+👋;Hey!+It's+Akhna!&center=true&size=30";)](https://git.io/typing-svg)
-</div>
+
 
 
 
