@@ -14,6 +14,7 @@
 🔭 &nbsp;I’m currently working on Mobile App Development\
 🌱 &nbsp;I’m currently learning Flutter\
 📫 &nbsp;Reach me through : akhnasj1612@gmail.com
+<br><br>
 
 <hr>
 
