@@ -1,14 +1,14 @@
 
 
 <div align="center" width="200">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello,+Fellow+Developers!+👋;Hey!+It's+Akhna!&center=true&size=30")](https://git.io/typing-svg)
-
 </div>
-<hr>
+
 <p align="center">
 <img align= "center" src="https://komarev.com/ghpvc/?username=akhnasj&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-</div>
+</p>
+
+<hr>
 
 ### 👨🏻‍💻 &nbsp;ABOUT ME
 🔭 &nbsp;I’m currently working on Mobile App Development\
