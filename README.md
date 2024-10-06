@@ -6,7 +6,7 @@
 
 <p align="center">
 <img align= "center" src="https://komarev.com/ghpvc/?username=akhnasj&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-</p>
+</div>
 
 <hr>
 
