@@ -44,7 +44,7 @@
 
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 </p>
-
+<hr>
 
 ## 📊 Stats
 
