@@ -11,10 +11,6 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I’m currently learning R programming\
-📫 &nbsp;Reach me through : <a href="mailto:akhnasj1612@gmail.com">📩</a>
-
-<!--
 I'm currently learning **R, Shiny, and Data Science** 🚀  
 I enjoy building **interactive dashboards** and exploring **data visualization** 📊  
 
@@ -24,7 +20,8 @@ I enjoy building **interactive dashboards** and exploring **data visualization**
 - 📌 **Tidyverse** for data manipulation  
 - 📌 **Machine Learning** with R  
 - 📌 SQL & APIs for data extraction
--->
+
+📫 &nbsp;Reach me through : <a href="mailto:akhnasj1612@gmail.com">📩</a>
 <br><br>
 
 <hr>
