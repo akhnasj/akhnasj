@@ -57,10 +57,10 @@
 ## 📊 Stats
 
 <p>
- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akhnasj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="450" style="margin-left: 100px;"> 
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akhnasj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="390" style="margin-left: 100px;"> 
  <!-- <img src="https://github-readme-streak-stats.vercel.app?user=akhnasj&theme=chartreuse-dark&hide_border=false" alt="Streak Stats" width="410"/></p> -->
  <!-- <br><br><br><br><br><br><br> -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhnasj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="330" style="margin-top: 10px; margin-left: 200px; margin-right: 10px; padding-left:200px;">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhnasj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="270" style="margin-top: 10px; margin-left: 200px; margin-right: 10px; padding-left:200px;">
 <br><br>
 
 <hr>
