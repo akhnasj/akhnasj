@@ -58,7 +58,7 @@
  <!-- <img src="https://github-readme-streak-stats.vercel.app?user=akhnasj&theme=chartreuse-dark&hide_border=false" alt="Streak Stats" width="410"/></p> -->
  <!-- <br><br><br><br><br><br><br> -->
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhnasj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="350" style="margin-top: 10px; margin-right: 300px;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhnasj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="350" style="margin-top: 10px;">
 <br><br>
 
 <hr>
