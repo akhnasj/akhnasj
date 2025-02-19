@@ -54,7 +54,7 @@
 ## 📊 Stats
 
 <p>
- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akhnasj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="390" height = "250> 
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akhnasj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="390" height = "250"> 
  <!-- <img src="https://github-readme-streak-stats.vercel.app?user=akhnasj&theme=chartreuse-dark&hide_border=false" alt="Streak Stats" width="410"/></p> -->
  <!-- <br><br><br><br><br><br><br> -->
  
