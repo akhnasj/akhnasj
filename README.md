@@ -13,12 +13,13 @@
 
 - I'm currently learning **R, Shiny, and Data Science** 🚀  
 - I enjoy building **interactive dashboards** and exploring **data visualization** 📊
- 📫 &nbsp;Reach me through : <a href="mailto:akhnasj1612@gmail.com">📩</a>
 
 ## 🌱 What I'm Learning
 📌 **R** for data analysis  
 📌 **Shiny** for interactive web apps  
-📌 **Tidyverse** for data manipulation  
+📌 **Tidyverse** for data manipulation 
+
+📫 &nbsp;Reach me through : <a href="mailto:akhnasj1612@gmail.com">📩</a>
 <br><br>
 <hr>
 
