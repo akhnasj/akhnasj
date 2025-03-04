@@ -23,7 +23,7 @@
 
 
 <!-- 📫 &nbsp;Reach me through : <a href="mailto:akhnasj1612@gmail.com">📩</a>  -->
-
+<br>
 <hr>
 
 ## 💻 Tech Stack
