@@ -14,9 +14,8 @@
 - Exploring **Python**, **LLMs**, **Langchain**, **Diffusion Models** for AI-driven solutions
 - Working with **C#**, **WinForms**, and **Entity Framework** for desktop apps
 
-
-<br>
 <!--
+<br>
 ## 🌱 What I'm Learning
 📌 **R** for data analysis  
 📌 **Shiny** for interactive web apps  
