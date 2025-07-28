@@ -11,16 +11,17 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- I'm currently learning **R, Shiny, and Data Science** 🚀  
-- I enjoy building **interactive dashboards** and exploring **data visualization** 📊
+- Exploring **Python**, **LLMs**, **Langchain**, **Diffusion Models** for AI-driven solutions
+- Working with **C#**, **WinForms**, and **Entity Framework** for desktop apps
+
 
 <br>
-
+<!--
 ## 🌱 What I'm Learning
 📌 **R** for data analysis  
 📌 **Shiny** for interactive web apps  
 📌 **Tidyverse** for data manipulation 
-
+-->
 
 <!-- 📫 &nbsp;Reach me through : <a href="mailto:akhnasj1612@gmail.com">📩</a>  -->
 <br>
